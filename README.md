@@ -7,7 +7,7 @@ Hi there 👋, I'm Mika Mada
 
 💬 Ask me about React, Next.js, Laravel, or anything tech-related.
 
-📫 Reach me at: [your.email@example.com]
+📫 Reach me at: mikamada17@gmail.com
 
 ⚡ Fun fact: I love exploring new technologies and making good coffee ☕️.
 

@@ -13,7 +13,3 @@ Hi there 👋, I'm Mika Mada
 
 ### 🛠️ Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,mysql,git,docker,github)
-
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madhaa17&show_icons=true&theme=radical" width="450"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhaa17&theme=radical" width="450"/> </p>

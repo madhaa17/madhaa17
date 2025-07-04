@@ -12,4 +12,4 @@ Hi there 👋, I'm Mika Mada
 ⚡ Fun fact: I love exploring new technologies and making good coffee ☕️.
 
 ### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,mysql,postgresql,git,docker,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,laravel,mysql,postgresql,git,docker,github)
